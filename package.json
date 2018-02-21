@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/wdswihart/minesweeper-p5.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "William Swihart",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wdswihart/minesweeper-p5/issues"
   },
