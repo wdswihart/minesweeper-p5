@@ -1,0 +1,23 @@
+{
+  "name": "minesweeper-p5",
+  "version": "1.0.0",
+  "description": "This is an implementation of the classic game Minesweeper using the p5.js  JavaScript library.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdswihart/minesweeper-p5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdswihart/minesweeper-p5/issues"
+  },
+  "homepage": "https://github.com/wdswihart/minesweeper-p5#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
